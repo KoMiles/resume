@@ -7,8 +7,28 @@
 
 - 邮箱: komiles@163.com
 
-- GitHub: [https://github.com/KoMiles](https://github.com/KoMiles)
 - 博客：[http://wangkongming.cn](http://wangkongming.cn)
+
+- GitHub: [https://github.com/komiles](https://github.com/KoMiles)
+
+求职意向
+--------
+- PHP开发工程师
+- 工作地区：北京
+- 期望月薪：面议
+- 目前状况：我目前在职，正考虑换个新环境
+
+专业技能
+--------
+
+- 熟悉HTML、CSS、Jquery、Ajax等
+- 熟悉Yaf框架，了解其他开源程序以及Cms系统
+- 熟悉Mysql、了解Redis
+- 熟悉Git，Svn版本控制工具
+- 熟悉Smarty，Memcached等缓存技术
+- 熟练使用Vim，Linux下常用命令
+- 了解Seo优化，Api接口优化
+- 了解Nginx、Apache等服务器技术
 
 
 项目经验
